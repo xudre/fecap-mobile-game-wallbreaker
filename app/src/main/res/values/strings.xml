@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wall Breaker</string>
+    <string name="button_left">←</string>
+    <string name="button_right">→</string>
+</resources>
